@@ -1,1 +1,1 @@
-# git-fun
+Repo for learning Git!
