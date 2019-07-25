@@ -1,3 +1,3 @@
 SELECT point_differential
 FROM nba_games
-WHERE nba_team = 'Heat!';
+WHERE nba_team = 'Warriors!';
